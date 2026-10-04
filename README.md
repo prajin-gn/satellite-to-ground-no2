@@ -1,1 +1,3 @@
 # satellite-to-ground-no2
+
+This project aims to develop machine learning models for high-resolution mapping of nitrogen dioxide (NO₂) concentrations using satellite observations and ground-based air quality measurements. It uses ground-level NO₂ data from approximately 178 monitoring stations across India for 2018–2019, with satellite data from TROPOMI planned for integration. The project begins with data exploration, preprocessing, and analysis to understand pollutant distributions, missing values, and outliers before model development.
